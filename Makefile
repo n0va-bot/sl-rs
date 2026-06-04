@@ -1,9 +1,7 @@
 #==========================================
 #    Makefile: makefile for sl 5.1
-#	Copyright 1993, 1998, 2014
-#                 Toyoda Masashi
-#		  (mtoyoda@acm.org)
-#	Last Modified: 2014/03/31
+#	Copyright 1993-2014 Toyoda Masashi (mtoyoda@acm.org)
+#	Copyright 2026 N0\A (n0va@krzak.org)
 #==========================================
 
 CC=gcc
