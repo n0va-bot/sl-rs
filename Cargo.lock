@@ -51,6 +51,5 @@ checksum = "f8fadd59c855ef2080decdef8ff161eb6661b86933c9d82e5ba29dc602a55aba"
 name = "sl-rs"
 version = "1.0.0"
 dependencies = [
- "libc",
  "ncurses",
 ]

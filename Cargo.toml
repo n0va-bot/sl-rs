@@ -3,6 +3,9 @@ name = "sl-rs"
 version = "1.0.0"
 edition = "2024"
 
+[[bin]]
+name = "sl"
+path = "src/main.rs"
+
 [dependencies]
 ncurses = "6.0.1"
-libc = "0.2"
